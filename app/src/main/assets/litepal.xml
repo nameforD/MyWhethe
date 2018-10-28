@@ -1,0 +1,12 @@
+<litepal>
+    <dbname value="myWheather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.a_cool_name.mywheather.db.City"/>
+        <mapping class="com.example.a_cool_name.mywheather.db.County"/>
+        <mapping class="com.example.a_cool_name.mywheather.db.Province"/>
+    </list>
+
+
+
+</litepal>
